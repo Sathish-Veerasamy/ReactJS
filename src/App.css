@@ -1,0 +1,23 @@
+.App{
+  padding: 40px;
+  background-color: black;
+  width: 95%;
+  margin: auto;
+}
+.posts{
+  width: 90%;
+  display: flex;  
+  flex-wrap: wrap;
+  display: flex;
+  flex: content;
+  padding-left: 5%;
+
+}
+.loadMore{
+  display: flex;
+position: relative;
+right: -45%;
+}
+
+
+
